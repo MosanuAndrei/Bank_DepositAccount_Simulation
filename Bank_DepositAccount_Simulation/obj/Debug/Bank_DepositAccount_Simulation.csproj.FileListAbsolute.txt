@@ -1,0 +1,7 @@
+C:\Users\Catalin\Desktop\CV_PROJECTS\Bank_DepositAccount_Simulation\Bank_DepositAccount_Simulation\bin\Debug\C-Sharp_Bank_Account_Simulation.exe.config
+C:\Users\Catalin\Desktop\CV_PROJECTS\Bank_DepositAccount_Simulation\Bank_DepositAccount_Simulation\bin\Debug\C-Sharp_Bank_Account_Simulation.exe
+C:\Users\Catalin\Desktop\CV_PROJECTS\Bank_DepositAccount_Simulation\Bank_DepositAccount_Simulation\bin\Debug\C-Sharp_Bank_Account_Simulation.pdb
+C:\Users\Catalin\Desktop\CV_PROJECTS\Bank_DepositAccount_Simulation\Bank_DepositAccount_Simulation\obj\Debug\Bank_DepositAccount_Simulation.csprojAssemblyReference.cache
+C:\Users\Catalin\Desktop\CV_PROJECTS\Bank_DepositAccount_Simulation\Bank_DepositAccount_Simulation\obj\Debug\Bank_DepositAccount_Simulation.csproj.CoreCompileInputs.cache
+C:\Users\Catalin\Desktop\CV_PROJECTS\Bank_DepositAccount_Simulation\Bank_DepositAccount_Simulation\obj\Debug\C-Sharp_Bank_Account_Simulation.exe
+C:\Users\Catalin\Desktop\CV_PROJECTS\Bank_DepositAccount_Simulation\Bank_DepositAccount_Simulation\obj\Debug\C-Sharp_Bank_Account_Simulation.pdb
